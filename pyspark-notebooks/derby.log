@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 07 22:01:11 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017f-6538-6e09-00001861d828 
+on database directory /home/ubuntu/workshop/pyspark-notebooks/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@567f83bc 
+Loaded from file:/opt/spark-2.4.7-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_312-8u312-b07-0ubuntu1~21.10-b07
+user.dir=/home/ubuntu/workshop/pyspark-notebooks
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-30-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
